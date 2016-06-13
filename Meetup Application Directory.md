@@ -37,3 +37,21 @@ Name | Description |
 [WinMeetupViewer](http://apps.microsoft.com/windows/en-us/app/winmeetupviewer/378e56ba-06d3-4084-ae06-0a8ce7a64dc8) | Win8 free meetup application to see and manage your meetups in simple view
 [WP-Meetup-Activity](http://wordpress.org/extend/plugins/wp-meetup-activity/) | This Wordpress plugin display your groups latest threads (discussion forum) in a sidebar widget
 [Yoke](https://common.yoke.io/) | Yoke tracks everything that matters to you in one intelligent board. You can access upcoming meetups, notifications and lots more, at yoke.io, from Slack, and in your Chrome bookmarks bar.
+
+___
+
+***Meetup sites*** are organizer blogs, group coalitions, and other websites made by groups using the API to pull in their Meetup calendars, rsvps, and other information. Perhaps you'll get some ideas for your own Meetup site!
+
+___
+
+Name | Description |
+---- | ----------- |
+[MeetupBoost.com](http://www.meetupboost.com/) | Put your group on autopilot! Membership with automatic expiration and renewal, Automatic handling of no-shows and no-RSVPs, Keep track of problem members by attaching notes and more.
+[MeetupGator](http://meetupgator.appspot.com/) | See upcoming events from multiple meetup groups, all on one page. Source is on GitHub.
+[GatheringPoint](http://gatheringpoint.com/#/14/roadmap/meetup-3) | Find meetups and other great activities in your neighborhood or around the world with this Google Maps mashup. Search by keyword and area.
+[Meetup Photobooth](http://meetupphotobooth.com/) | Add a photo to your Meetup profile quickly and easily.
+[SocialReport.com](http://www.socialreport.com/) | Social network analytics for tracking your social network accounts, including Meetup accounts, the same as you track the performance of your websites.
+
+___
+
+***To request inclusion*** in the above listings, join the [Meetup API Testing](http://www.meetup.com/Meetup-API-Testing/) group and add to the [Application Submissions](http://www.meetup.com/Meetup-API-Testing/pages/Application_Submissions/) or [Site Submissions](http://www.meetup.com/Meetup-API-Testing/pages/Application_Submissions/) wiki pages.
