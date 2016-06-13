@@ -1,0 +1,39 @@
+# Meetup Application Directory
+
+**Meetup applications** are web sites, desktop applications, and phone apps that tap in to our network of local groups using the Meetup API. Whether you're a Meetup organizer looking for tools to make your group better or a member in search of the best groups your community has to offer, these apps have got you covered.
+
+___
+
+Name | Description |
+---- | ----------- |
+Meetup for Android | The official Meetup app for Android.
+Meetup for iPhone |  Now while you're on the go, you can use your iPhone to connect with Meetup!
+Amazing Prize-O-Tron | Do you give away prizes at your events? You can use the Amazing Prize-O-Tron to quickly and easily randomly select prize winners from one or more meetup events.
+Clique | The unofficial Meetup app for Windows Phone 8, is the premiere app for Meetup and is the first full-function Meetup app in the Windows Phone Store.
+CityPulse | Discover your city with CityPulse - citypulse.io. We're passionate about putting meetups and other events smack bang on the map using a beautiful and unique interface.
+Daytripper | Daytripper is an Android and Kindle app to find local businesses, ticketed events, and meetups. The app is primarily designed for people who have little proficiency with computers. All input comes from voice and text. To use the app, just type your query in the search box. Or if your device supports voice search, click the microphone icon and speak your query. Please see the help menu for query details with examples.
+Drupal Meetup Events | A Drupal module to automatically publish and update events from a drupal site to a meetup group.
+FlipPhoto Explorer for iPad | FlipPhoto4M Explorer is a flip magazine-style photo explorer app for viewing photos uploaded by members of Meetup.com. You can view photos from your Activity Feed, Group Albums and your uploaded photos & upload photos to any of your Groups' Albums.
+FlipPhoto Explorer for iPhone | FlipPhoto4M Explorer is a flip magazine-style photo explorer app for viewing photos uploaded by members of Meetup.com. You can view photos from your Activity Feed, Group Albums and your uploaded photos & upload photos to any of your Groups' Albums.
+Flowxo | Connect your cloud apps together into automated workflows. There's no code involved and you don't need any technical skills to use Flow XO. Just imagine the way you want Meetup to work together with your other apps and you're there.
+Leftronic |With our Meetup.com integration you can monitor metrics such as your group size and rating over time, along with all your other important KPIs, in a Leftronic business dashboard.
+LightUp plugin for Lightroom | Export your event images from Adobe Lightroom directly into your Meetup Photo Album. Supports multiple groups, multiple events, and posts image data.
+Meetapp | A free iPhone app for Meetup. It gives you most of the functionality of Meetup.com on the go!
+MeetRoster | Take your Meetup's attendance while you're there, with this app for the iPhone, iPod Touch, and iPad.
+MeetupGroup for iPad | Provides Meetup members with easy access to the site content while on the go on their iPad. Its main features include latest Activity Feed, your Calendar, your Groups, Group Albums, Album Photo Viewer, and Search for Meetups.
+MeetupGroup for iPhone | Provides Meetup members with easy access to the site content while on the go. Its main features include latest Activity Feed, your Calendar, your Groups, Group Albums, Album Photo Viewer, and Search for Meetups.
+MetAt | An Android based app for creating contact lists of people you've met at Meetups. Once linked to your Meetup account, 'MetAt' will download and sync the groups you attend so you can add new contacts to them. Not only can you store vital contact information, but you can include and update personalized notes about each entry for future reference
+MyMeetup | The #1 portal to meetup.com for your Windows Phone 7.
+My Meetup App | This simple PHP script automagically publishes your Meetup group's activity on Twitter.
+Rendezvous | Meetup listings and basic RSVP actions. Support any device which has Android 1.6 and above.
+Snapup Android | Post photos and flick through your Meetup RSVP listings on an Android device, with this example application for the Meetup API.
+Socializer | A Meetup client for Android, including search and browse functionality as well as tracking of events in your groups and the ability to upload event photos.
+TimePlace | Browse the Real World. Search, Discover & Navigate events, concerts, Meet-ups and activities in your city.
+SpeedDating for Meetup | Application to help you host a SpeedDating Event. Does all the user voting, matching and notifications.
+Turnout for Meetup | Turnout let's you quickly check in members so that you and your members can focus on your event.
+Umbraco CMS Meetup App | The Umbraco CMS Meetup App, uMeetup integrates Meetup events into a content managed site.
+Venyooz | Find and rent great spaces for your next Meetup! (Currently only in Los Angeles)
+Wordpress Meetup Plugin | "WP Meetup" fetches event information from Meetup.com and creates posts for each event on your Wordpress blog. It also features an event calendar for displaying upcoming events either on a page on as a widget.
+WinMeetupViewer | Win8 free meetup application to see and manage your meetups in simple view
+WP-Meetup-Activity | This Wordpress plugin display your groups latest threads (discussion forum) in a sidebar widget
+Yoke | Yoke tracks everything that matters to you in one intelligent board. You can access upcoming meetups, notifications and lots more, at yoke.io, from Slack, and in your Chrome bookmarks bar.
