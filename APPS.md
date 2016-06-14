@@ -54,4 +54,4 @@ Name | Description |
 
 ___
 
-***To request inclusion*** in the above listings, join the [Meetup API Testing](http://www.meetup.com/Meetup-API-Testing/) group and add to the [Application Submissions](http://www.meetup.com/Meetup-API-Testing/pages/Application_Submissions/) or [Site Submissions](http://www.meetup.com/Meetup-API-Testing/pages/Application_Submissions/) wiki pages.
+***To request inclusion*** in the above listings, make a Pull Request.
