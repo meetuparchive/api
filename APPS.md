@@ -32,7 +32,7 @@ Name | Description | Logo
 [Umbraco CMS Meetup App](http://our.umbraco.org/projects/collaboration/umeetup) | The Umbraco CMS Meetup App, uMeetup integrates Meetup events into a content managed site. | ![Umbraco CMS Meetup App logo](http://photos3.meetupstatic.com/photos/event/c/4/c/4/highres_341630372.jpeg)
 [Venyooz](http://www.venyooz.com/meetup) | Find and rent great spaces for your next Meetup! (Currently only in Los Angeles) | ![Venyooz logo](https://www.venyooz.com/assets/logo_venyooz_text.png)
 [Wordpress Meetup Plugin](http://nuancedmedia.com/wordpress-meetup-plugin/) | "WP Meetup" fetches event information from Meetup.com and creates posts for each event on your Wordpress blog. It also features an event calendar for displaying upcoming events either on a page on as a widget. | ![Wordpress Meetup Plugin logo](http://photos2.meetupstatic.com/photos/event/7/8/e/8/600_59310952.jpeg)
-[Yoke](https://common.yoke.io/) | Yoke tracks everything that matters to you in one intelligent board. You can access upcoming meetups, notifications and lots more, at yoke.io, from Slack, and in your Chrome bookmarks bar. | ![Yoke logo](https://common.yoke.io/track/meetup/)
+[Yoke](https://common.yoke.io/track/meetup/) | Yoke tracks everything that matters to you in one intelligent board. You can access upcoming meetups, notifications and lots more, at yoke.io, from Slack, and in your Chrome bookmarks bar. | ![Yoke logo](http://photos2.meetupstatic.com/photos/event/a/e/f/d/highres_443024797.jpeg)
 
 ___
 
