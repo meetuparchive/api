@@ -42,6 +42,7 @@ ___
 
 Name | Description | Logo
 ---- | ----------- | ----
+[MeetMap](http://claudiocimarelli.github.io/MeetStreamNet/) | A web application to visualize meetups in real time worldwide and much more. | ![MeetMap logo](http://photos4.meetupstatic.com/photos/event/2/d/4/a/highres_448751594.jpeg)
 [MeetupBoost.com](http://www.meetupboost.com/) | Put your group on autopilot! Membership with automatic expiration and renewal, Automatic handling of no-shows and no-RSVPs, Keep track of problem members by attaching notes and more. | ![MeetupBoost.com logo](http://photos4.meetupstatic.com/photos/event/4/6/b/6/highres_225738102.jpeg)
 [MeetupGator](http://meetupgator.appspot.com/) | See upcoming events from multiple meetup groups, all on one page. Source is on GitHub.
 [Meetup Photobooth](http://meetupphotobooth.com/) | Add a photo to your Meetup profile quickly and easily.
