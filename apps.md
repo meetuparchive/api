@@ -36,6 +36,7 @@ Name | Description | Logo
 [Venyooz](http://www.venyooz.com/meetup) | Find and rent great spaces for your next Meetup! (Currently only in Los Angeles) | ![Venyooz logo](https://www.venyooz.com/assets/logo_venyooz_text.png)
 [Wordpress Meetup Plugin](http://nuancedmedia.com/wordpress-meetup-plugin/) | "WP Meetup" fetches event information from Meetup.com and creates posts for each event on your Wordpress blog. It also features an event calendar for displaying upcoming events either on a page on as a widget. | ![Wordpress Meetup Plugin logo](http://photos2.meetupstatic.com/photos/event/7/8/e/8/600_59310952.jpeg)
 [Yoke](https://common.yoke.io/track/meetup/) | Yoke tracks everything that matters to you in one intelligent board. You can access upcoming meetups, notifications and lots more, at yoke.io, from Slack, and in your Chrome bookmarks bar. | ![Yoke logo](http://photos2.meetupstatic.com/photos/event/a/e/f/d/highres_443024797.jpeg)
+[Msync](https://play.google.com/store/apps/details?id=eu.the4thfloor.msync) | Sync your Meetup events into your Android calendar. Not more. Source code available at https://github.com/the4thfloor/msync | ![Msync logo](https://lh3.googleusercontent.com/kUep6xB-UtkKLH9sL8-VteOAVE8VNSmeFEsFlQMfaP7-_qPuNfK9PO9qrYXJ3q7WtA=w120)
 
 ___
 
