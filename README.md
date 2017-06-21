@@ -4,7 +4,7 @@ This repository contains a list of links to community contributions and apps tha
 
 ## [Apps][apps]
 
-You can find information about apps using the Meetup API [here][apps]. Sumbit a pull request to have yours listed.
+You can find information about apps using the Meetup API [here][apps]. Submit a pull request to have yours listed.
 
 ## [Issues][issues]
 
