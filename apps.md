@@ -49,6 +49,7 @@ Name | Description | Logo
 [MeetMap](http://claudiocimarelli.github.io/MeetStreamNet/) | A web application to visualize meetups in real time worldwide and much more. | ![MeetMap logo](http://photos4.meetupstatic.com/photos/event/2/d/4/a/highres_448751594.jpeg)
 [MeetupBoost.com](http://www.meetupboost.com/) | Put your group on autopilot! Membership with automatic expiration and renewal, Automatic handling of no-shows and no-RSVPs, Keep track of problem members by attaching notes and more. | ![MeetupBoost.com logo](http://photos4.meetupstatic.com/photos/event/4/6/b/6/highres_225738102.jpeg)
 [MeetupGator](http://meetupgator.appspot.com/) | See upcoming events from multiple meetup groups, all on one page. Source is on GitHub.
+[meetup-randomizer](https://github.com/durancristhian/meetup-randomizer) | Console application that chooses random persons from a Meetup's event excluding hosts, specially designed to raffle several gifts like stickers, tickets to conferences and more. Source is on GitHub.
 [Meetup Photobooth](http://meetupphotobooth.com/) | Add a photo to your Meetup profile quickly and easily.
 [SocialReport.com](http://www.socialreport.com/) | Social network analytics for tracking your social network accounts, including Meetup accounts, the same as you track the performance of your websites. | ![SocialReport.com logo](http://photos2.meetupstatic.com/photos/event/e/0/1/b/highres_29037371.jpeg)
 
