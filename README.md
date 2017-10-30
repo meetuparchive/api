@@ -16,5 +16,6 @@ If you find a problem with the API or receive an error you don't understand whil
 
 
 [apps]: https://github.com/meetup/api/blob/master/apps.md#meetup-application-directory
+[clients]: https://github.com/meetup/api/blob/master/clients.md#meetup-api-client-libraries
 [issues]: https://github.com/meetup/api/issues
 [docs]: http://www.meetup.com/meetup_api/

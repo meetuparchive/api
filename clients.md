@@ -2,7 +2,7 @@
 
 Client libraries make it easier to access the API from your programming language of choice. Most of these have been developed by the user community. If the feature or API method you want isn't supported, just fork it!
 
-> Note: Meetup makes no guarantees about the maintenance and the support of 3rd party API client libraries offer. Please contact their maintainers for support.
+> Note: Meetup makes no guarantees about the maintenance and the support these 3rd party API client libraries offer. Please contact their maintainers if you have questions.
 
 > Note: If you come across a library that no longer seems to be maintained and you think should be removed from this listing. Please submit a pull request to do so.
 
@@ -49,7 +49,6 @@ Client libraries make it easier to access the API from your programming language
 * [meetup_client](https://github.com/cranieri/meetup_client) An easy-to-use Ruby interface to the Meetup.com API
 * [OmniAuth 1.0 Strategy Ruby Gem for Meetup](https://github.com/tapster/omniauth-meetup) The latest version of OmniAuth (> 1.0) requires the use of strategy gems for each OAuth provider. This library provides a strategy for meetup.com
 * [rMeetup](https://github.com/neektza/rmeetup) Ruby client library for the Meetup.com API
-* [rMeetup Improved](https://github.com/Jberlinsky/rmeetup) An improved, documented version of rMeetup for Ruby that allows access to the full Meetup API.
 * [Rubeetup](https://github.com/mike-vascelli/rubeetup) A Ruby library to the Meetup API, which gives you easy access to 77 Meetup methods complete with params validation.
 
 ## Scala
