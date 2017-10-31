@@ -4,11 +4,11 @@ Client libraries make it easier to access the API from your programming language
 
 > Note: Meetup makes no guarantees about the maintenance and the support these 3rd party API client libraries offer. Please contact their maintainers if you have questions.
 
-> Note: If you come across a library that no longer seems to be maintained and you think should be removed from this listing. Please submit a pull request to do so.
+> Note: If you come across a library that no longer seems to be maintained and you think should be removed from this listing, please submit a pull request to do so.
 
 ## C#
 
-* [MeetupApi for C#](https://github.com/dachibox/MeetupApi) This will be the definitive portable class libarary solution for Xamarin and Universal Windows Platform. Check it out and if you would, send some pull request.
+* [MeetupApi for C#](https://github.com/dachibox/MeetupApi) This will be the definitive portable class library solution for Xamarin and Universal Windows Platform. Check it out and if you would, send some pull request.
 
 ## Java
 
@@ -20,6 +20,10 @@ Client libraries make it easier to access the API from your programming language
 * [Must.js](https://github.com/meetup/must.js) A browser client for the Meetup Stream APIs
 * [Node meetup-api](https://npmjs.org/package/meetup-api) A node.js interface to the Meetup API
 
+## Objective-C
+
+* [NSMeetupO2](https://github.com/rodchile/NSMeetUpO2/) A small library that makes easier the Meetup.com API OAuth2 authorization flow for your iOS app.
+
 ## PHP
 
 * [DMS PHP API Client](https://github.com/rdohms/meetup-api-client) "API client based on Guzzle with full support for the API and installation via composer. Compliant with PSR-0/1/2
@@ -30,11 +34,6 @@ Client libraries make it easier to access the API from your programming language
 * [PHP OAuth AP](http://www.phpclasses.org/package/7700-PHP-Authorize-and-access-APIs-using-OAuth.html)  OAuth client library that supports many APIs including Meetup
 * [PHP one-file API client](https://github.com/FokkeZB/Meetup) Simple but effective API client library in PHP with no dependencies.
 * [Simple PHP client](https://github.com/user3581488/Meetup) A very simple, one-file, PHP client for accessing most of the Meetup API.
-
-## Objective-C
-
-* [NSMeetupO2](https://github.com/rodchile/NSMeetUpO2/) A small library that makes easier the Meetup.com API OAuth2 authorization flow for your iOS app .
-
 ## Python
 
 * [python-api-client](http://github.com/meetup/python-api-client) encapsulates all the logic needed to make queries to the Meetup API in Python.

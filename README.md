@@ -8,7 +8,7 @@ You can find information about apps using the Meetup API [here][apps]. Submit a 
 
 ## [Clients][clients]
 
-You can find a list Meetup API client libraries [here][clients]. Submit a pull request to have yours listed.
+You can find a list of Meetup API client libraries [here][clients]. Submit a pull request to have yours listed.
 
 ## [Issues][issues]
 
