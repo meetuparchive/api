@@ -40,6 +40,7 @@ Client libraries make it easier to access the API from your programming language
 
 ## R
 
+* [meetupapi] (https://cran.r-project.org/web/packages/meetupapi/index.html) Flexible functions for meetup.com API 
 * [meetupr](https://github.com/rladies/meetupr) R interface to the meetup.com API.
 
 
