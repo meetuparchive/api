@@ -10,6 +10,9 @@ Client libraries make it easier to access the API from your programming language
 
 * [MeetupApi for C#](https://github.com/dachibox/MeetupApi) This will be the definitive portable class library solution for Xamarin and Universal Windows Platform. Check it out and if you would, send some pull request.
 
+## Elixir
+* [meetup](https://hex.pm/packages/meetup) Hex package for the Meetup V3 API.
+
 ## Java
 
 * [meetup-java-client](http://code.google.com/p/meetup-java-client/) Java client library for the Meetup API.
@@ -40,7 +43,7 @@ Client libraries make it easier to access the API from your programming language
 
 ## R
 
-* [meetupapi] (https://cran.r-project.org/web/packages/meetupapi/index.html) Flexible functions for meetup.com API 
+* [meetupapi] (https://cran.r-project.org/web/packages/meetupapi/index.html) Flexible functions for meetup.com API
 * [meetupr](https://github.com/rladies/meetupr) R interface to the meetup.com API.
 
 
