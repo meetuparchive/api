@@ -37,6 +37,11 @@ Client libraries make it easier to access the API from your programming language
 * [PHP OAuth AP](http://www.phpclasses.org/package/7700-PHP-Authorize-and-access-APIs-using-OAuth.html)  OAuth client library that supports many APIs including Meetup
 * [PHP one-file API client](https://github.com/FokkeZB/Meetup) Simple but effective API client library in PHP with no dependencies.
 * [Simple PHP client](https://github.com/user3581488/Meetup) A very simple, one-file, PHP client for accessing most of the Meetup API.
+
+## PowerShell
+
+* [MeetupPS](https://github.com/lazywinadmin/MeetupPS) PowerShell module to interact with the Meetup.com API
+
 ## Python
 
 * [python-api-client](http://github.com/meetup/python-api-client) encapsulates all the logic needed to make queries to the Meetup API in Python.
