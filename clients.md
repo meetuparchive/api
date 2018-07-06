@@ -78,4 +78,4 @@ Client libraries make it easier to access the API from your programming language
 
 ___
 
-***To request inclusion*** in the above listings, make a Pull Request (please maintain language then library name alphabetical order).
+***To request inclusion*** in the above listings, make a Pull Request (please maintain language then library name alphabetical order). Remember that third-party applications and sites must use OAuth-based authentication to access the Meetup API. Please immediately report any violations to api_license@meetup.com.
