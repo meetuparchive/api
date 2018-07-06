@@ -57,4 +57,4 @@ Name | Description | Logo
 
 ___
 
-***To request inclusion*** in the above listings, make a Pull Request (please maintain alphabetical order).
+***To request inclusion*** in the above listings, make a Pull Request (please maintain alphabetical order). Remember that third-party applications and sites must use OAuth-based authentication to access the Meetup API. Please immediately report any violations to api_license@meetup.com.
