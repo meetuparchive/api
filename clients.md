@@ -45,7 +45,7 @@ Client libraries make it easier to access the API from your programming language
 ## Python
 
 * [python-api-client](http://github.com/meetup/python-api-client) encapsulates all the logic needed to make queries to the Meetup API in Python. (discontinued)
-* [python-api](https://github.com/pferate/meetup-api) Python API for Meetup.
+* [python-api](https://github.com/pferate/meetup-api) Python API for Meetup. (maintenance)
 
 ## R
 
