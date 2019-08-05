@@ -24,7 +24,6 @@ Client libraries make it easier to access the API from your programming language
 * [Must.js](https://github.com/meetup/must.js) A browser client for the Meetup Stream APIs
 * [Node meetup-api](https://npmjs.org/package/meetup-api) A node.js interface to the Meetup API
 
-
 ## Objective-C
 
 * [NSMeetupO2](https://github.com/rodchile/NSMeetUpO2/) A small library that makes easier the Meetup.com API OAuth2 authorization flow for your iOS app.
