@@ -20,6 +20,7 @@ Client libraries make it easier to access the API from your programming language
 ## Javascript
 
 * [angular-meetup](https://github.com/rodrigo-morais/angular-meetup) This Angular component has some services and directives to give some facilities when an app need to communicate with Meetup.com API in an AngularJS project
+* [gatsby-source-meetup](https://github.com/phacks/gatsby-source-meetup) Source plugin for pulling Meetup.com data about a specific Group and the events associated to it into Gatsby applications with GraphQL. 
 * [Must.js](https://github.com/meetup/must.js) A browser client for the Meetup Stream APIs
 * [Node meetup-api](https://npmjs.org/package/meetup-api) A node.js interface to the Meetup API
 
@@ -44,7 +45,8 @@ Client libraries make it easier to access the API from your programming language
 
 ## Python
 
-* [python-api-client](http://github.com/meetup/python-api-client) encapsulates all the logic needed to make queries to the Meetup API in Python.
+* [python-api-client](http://github.com/meetup/python-api-client) encapsulates all the logic needed to make queries to the Meetup API in Python. (discontinued)
+* [python-api](https://github.com/pferate/meetup-api) Python API for Meetup. (maintenance)
 
 ## R
 
